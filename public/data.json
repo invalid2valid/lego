@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Superman",
+        "sname": "Brick Store",
+        "email": "info@brickstore.com",
+        "category": "DC",
+        "price": 19.99,
+        "rating": 4.5,
+        "quantity": 10,
+        "description": "Fly into action with the Man of Steel! This LEGO set includes Superman minifigure with super strength and heat vision abilities.",
+        "image": "https://www.lego.com/cdn/cs/catalog/assets/bltb3b9fc213baadd21/1/76096_Superman.png?width=320&format=webply"
+    },
+    {
+        "name": "Darth Vader",
+        "sname": "Galactic Toys",
+        "email": "contact@galactictoys.com",
+        "category": "Star Wars",
+        "price": 29.99,
+        "rating": 4.8,
+        "quantity": 7,
+        "description": "Embrace the dark side with the Sith Lord Darth Vader! This LEGO set includes Darth Vader minifigure with a lightsaber and the Force.",
+        "image": "https://www.lego.com/cdn/cs/catalog/assets/blt8fbe40b58f05e90e/1/darth_vader-thumb.png?width=320&format=webply"
+    },
+    {
+        "name": "Wonder Woman",
+        "sname": "Toy Universe",
+        "email": "support@toyuniverse.com",
+        "category": "DC",
+        "price": 17.99,
+        "rating": 4.6,
+        "quantity": 3,
+        "description": "Join Wonder Woman in her fight for justice and peace! This LEGO set features Wonder Woman minifigure with her Lasso of Truth and indestructible bracelets.",
+        "image": "https://www.lego.com/cdn/cs/catalog/assets/blt224e3436cedcf95e/1/WonderWoman.png?width=320&format=webply"
+    },
+    {
+        "name": "Katara",
+        "sname": "Toy Galaxy",
+        "email": "info@toygaxy.com",
+        "category": "Avatar",
+        "price": 21.99,
+        "rating": 4.3,
+        "quantity": 9,
+        "description": "Join Katara and master the art of waterbending! This LEGO set includes Katara minifigure with her waterbending powers and a water whip.",
+        "image": "https://www.lego.com/cdn/cs/catalog/assets/blt7cbbf38c1cd40e5b/1/Character_Mugshots-Thumbnail_0000s_0001s_0003_Katana.png?width=320&format=webply"
+    },
+    {
+        "name": "Luke Skywalker",
+        "sname": "Star Wars Collectibles",
+        "email": "sales@swcollectibles.com",
+        "category": "Star Wars",
+        "price": 27.99,
+        "rating": 4.7,
+        "quantity": 6,
+        "description": "Become a Jedi Knight with Luke Skywalker! This LEGO set features Luke Skywalker minifigure with a lightsaber and the power of the Force.",
+        "image": "https://www.lego.com/cdn/cs/catalog/assets/bltd08b005e103fb35e/1/OverviewLukeSkywalker.png?width=320&format=webply"
+    },
+    {
+        "name": "Superman The 2nd",
+        "sname": "Brick Store",
+        "email": "info@brickstore.com",
+        "category": "DC",
+        "price": 19.99,
+        "rating": 4.5,
+        "quantity": 10,
+        "description": "Fly into action with the Man of Steel! This LEGO set includes Superman minifigure with super strength and heat vision abilities.",
+        "image": "https://www.lego.com/cdn/cs/catalog/assets/bltb3b9fc213baadd21/1/76096_Superman.png?width=320&format=webply"
+    },
+    {
+        "name": "Darth Vader The 2nd",
+        "sname": "Galactic Toys",
+        "email": "contact@galactictoys.com",
+        "category": "Star Wars",
+        "price": 29.99,
+        "rating": 4.8,
+        "quantity": 7,
+        "description": "Embrace the dark side with the Sith Lord Darth Vader! This LEGO set includes Darth Vader minifigure with a lightsaber and the Force.",
+        "image": "https://www.lego.com/cdn/cs/catalog/assets/blt8fbe40b58f05e90e/1/darth_vader-thumb.png?width=320&format=webply"
+    },
+    {
+        "name": "Wonder Woman The 2nd",
+        "sname": "Toy Universe",
+        "email": "support@toyuniverse.com",
+        "category": "DC",
+        "price": 17.99,
+        "rating": 4.6,
+        "quantity": 3,
+        "description": "Join Wonder Woman in her fight for justice and peace! This LEGO set features Wonder Woman minifigure with her Lasso of Truth and indestructible bracelets.",
+        "image": "https://www.lego.com/cdn/cs/catalog/assets/blt224e3436cedcf95e/1/WonderWoman.png?width=320&format=webply"
+    },
+    {
+        "name": "Katara The 2nd",
+        "sname": "Toy Galaxy",
+        "email": "info@toygaxy.com",
+        "category": "Avatar",
+        "price": 21.99,
+        "rating": 4.3,
+        "quantity": 9,
+        "description": "Join Katara and master the art of waterbending! This LEGO set includes Katara minifigure with her waterbending powers and a water whip.",
+        "image": "https://www.lego.com/cdn/cs/catalog/assets/blt7cbbf38c1cd40e5b/1/Character_Mugshots-Thumbnail_0000s_0001s_0003_Katana.png?width=320&format=webply"
+    },
+    {
+        "name": "Luke Skywalker The 2nd",
+        "sname": "Star Wars Collectibles",
+        "email": "sales@swcollectibles.com",
+        "category": "Star Wars",
+        "price": 27.99,
+        "rating": 4.7,
+        "quantity": 6,
+        "description": "Become a Jedi Knight with Luke Skywalker! This LEGO set features Luke Skywalker minifigure with a lightsaber and the power of the Force.",
+        "image": "https://www.lego.com/cdn/cs/catalog/assets/bltd08b005e103fb35e/1/OverviewLukeSkywalker.png?width=320&format=webply"
+    }
+]
